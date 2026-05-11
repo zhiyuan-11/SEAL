@@ -1,0 +1,33 @@
+# Model weights / checkpoints
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.safetensors
+*.npz
+*.npy
+*.h5
+*.hdf5
+*.pkl
+*.parquet
+
+# Output / cache
+output/
+outputs/
+checkpoints/
+ckpt/
+runs/
+wandb/
+logs/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Data
+data/
+datasets/
+tiny-imagenet-200/
+
+# OS
+.DS_Store
+__MACOSX/
